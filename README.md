@@ -8,13 +8,14 @@ Key Features
 
 How It Works
 
-    Data Preprocessing: Cleans and prepares book rating data for model input.
-    Model Training: Uses KNN for collaborative filtering to identify books rated highly by similar users.
-    Recommendation Generation: Provides users with book suggestions based on similar user preferences, offering personalized recommendations.
+1.Data Preprocessing: Cleans and prepares book rating data for model input.
+2.Model Training: Uses KNN for collaborative filtering to identify books rated highly by similar users.
+3.Recommendation Generation: Provides users with book suggestions based on similar user preferences, offering 
+4.personalized recommendations.
 
 Technologies Used
 
-    Python for scripting and data processing
-    Pandas and NumPy for data manipulation
-    Scikit-learn for KNN and collaborative filtering
-    Streamlit for an interactive user interface (if applicable)
+    1.Python for scripting and data processing
+    2.Pandas and NumPy for data manipulation
+    3.Scikit-learn for KNN and collaborative filtering
+    4.Streamlit for an interactive user interface (if applicable)
